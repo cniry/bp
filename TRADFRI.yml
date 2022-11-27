@@ -15,7 +15,7 @@ blueprint:
         device:
           integration: Zigbee Home Automation
           manufacturer: "IKEA of Sweden"
-          model: "FYRTUR block-out roller blind"
+          model: "TRADFRI open/close remote"
     cover:
       name: Cover
       description: The cover to control
