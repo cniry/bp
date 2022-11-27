@@ -13,9 +13,9 @@ blueprint:
       description: "IKEA open/close remote to use"
       selector:
         device:
-          integration: zha
-          manufacturer: "\x02KE"
-          model: "TRADFRI open/close remote"
+          integration: Zigbee Home Automation
+          manufacturer: "IKEA of Sweden"
+          model: "FYRTUR block-out roller blind"
     cover:
       name: Cover
       description: The cover to control
