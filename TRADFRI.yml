@@ -11,10 +11,6 @@ blueprint:
     remote:
       name: Remote
       description: "IKEA open/close remote to use"
-      selector:
-        device:
-          manufacturer: "IKEA of Sweden"
-          model: "TRADFRI open/close remote"
     cover:
       name: Cover
       description: The cover to control
